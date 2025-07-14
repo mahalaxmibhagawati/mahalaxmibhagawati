@@ -31,7 +31,7 @@ A passionate Computer Engineering student (Final Year) with interests in **Full 
 ---
 
 ### 📊 GitHub Stats
-![Mahalaxmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
+![Mahalaxmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourmahalaxmibhagawati&show_icons=true&theme=radical)
 
 ---
 
