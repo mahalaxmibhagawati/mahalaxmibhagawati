@@ -24,7 +24,7 @@ A passionate Computer Engineering student (Final Year) with interests in **Full 
 
 ### 🚀 Projects
 - 🧹 [Maid For U](https://github.com/yourrepo): A maid hiring platform with React, Node.js
-- 🎨 [Portfolio Website]((https://github.com/mahalaxmibhagawati/portfolio.git)): React-based portfolio with animations
+- 🎨 [Portfolio Website](https://github.com/mahalaxmibhagawati/portfolio.git): React-based portfolio with animations
 - 🧠 [AI Image Restoration](https://github.com/yourrepo): Restore old/damaged images using deep learning
 - 📚 [Library Management System](https://github.com/yourrepo): Java + MySQL based mini project
 
