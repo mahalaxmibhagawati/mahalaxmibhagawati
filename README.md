@@ -6,6 +6,9 @@ A passionate Computer Engineering student (Final Year) with interests in **Full 
 ### 💼 Currently
 - 🎓 Final Year B.Tech at RAIT, Navi Mumbai
 - 🛠️ Building projects in React.js, Node.js, and Cloud
+- ### 📊 My LeetCode Stats
+
+![LeetCode Stats](https://leet-code-stat.onrender.com/api?username=https://leetcode.com/u/mahalaxmibhagawati/)
 
 
 ---
